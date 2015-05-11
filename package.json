@@ -1,0 +1,27 @@
+{
+  "name": "complex-sqrt",
+  "version": "1.0.0",
+  "description": "Floating point complex square root",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scijs/complex-sqrt.git"
+  },
+  "keywords": [
+    "complex",
+    "scijs",
+    "sqrt",
+    "square-root",
+    "math",
+    "floating-point"
+  ],
+  "author": "Ricky Reusser",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.7.0",
+    "mocha": "^2.2.4"
+  }
+}
