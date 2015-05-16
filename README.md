@@ -17,9 +17,11 @@ Then using w,
 
 ## Usage
 
-##### `require('complex-sqrt')( a, b )`
+##### `require('complex-sqrt')( a, b [, result] )`
 
 Calculates sqrt(a + ib) and returns a two-element JS array with the real and imaginary components of the answer.
+
+`result` is an optional to-element `Array` or typed array into which output is passed, if provided.
 
 ## Example
 
