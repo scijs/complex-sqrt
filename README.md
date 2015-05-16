@@ -7,7 +7,7 @@ Floating point complex square root
 
 ## Intro
 
-Calculating the complex square root requires some care. The naive method may encounter overflow, underflow, or loss of precision due to the intermediate floating point results. A simple remedy is[1]:
+Calculating the complex square root requires some care. The naive method may encounter overflow, underflow, or loss of precision due to the intermediate floating point results. A simple remedy[[1]](#references) is:
 
 ![Complex w](docs/images/w.png)
 
